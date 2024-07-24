@@ -1,1 +1,2 @@
-# neural-network-challenge-1
+# Neural Network Challenge-1
+In this challenge, first I prepared data to work on a neural network model. I used the code to read the data from the given csv file. I determined the features and target datasets then train, spit, and test the data. We used the scalar function on the training dataset. Using TensorFlow with Keras, I created a neural network to predict whether a student would be successful or not repaying their loans.
